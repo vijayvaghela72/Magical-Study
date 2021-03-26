@@ -13,4 +13,8 @@ We design 3 screens first one is a welcome screen like then user open your app i
 ### Similarly some other screen view are here ,
 
 
-![App UI](/UI.png)
+![App UI](/login.JPG)
+![App UI](/magic.JPG)
+![App UI](/magic1.JPG)
+![App UI](/magical1.JPG)
+
