@@ -13,14 +13,20 @@ welcome page ,
 We design 3 screens first one is a welcome screen like then user open your app it shows then users have two options, if he has an account then press the login button and it just shifts him to the login screen or if he or she don't have an account then press signup button its transfers to the signup screen.
 
 
-![App UI](/login.JPG)
-
+![App UI](/6.jpg)
+![App UI](/8.jpg)
 
 ### Similarly some other screen view are here ,
 
 
+![App UI](/1.jpg)
+![App UI](/2.jpg)
+![App UI](/3.jpg)
+![App UI](/4.jpg)
+![App UI](/5.jpg)
+![App UI](/7.jpg)
+![App UI](/9.jpg)
 
-![App UI](/magic.JPG)
-![App UI](/magic1.JPG)
-![App UI](/magical1.JPG)
+this is a little bit intro of projrct .
 
+thank ypu ..
