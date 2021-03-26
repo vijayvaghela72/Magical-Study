@@ -6,14 +6,20 @@ Nowadays due to the current pandemic issue of covid19, all schools are closed be
 
 # User Interface of Flutter Alication
 
+welcome page ,
 
+![App UI](/10.jpg)
 
 We design 3 screens first one is a welcome screen like then user open your app it shows then users have two options, if he has an account then press the login button and it just shifts him to the login screen or if he or she don't have an account then press signup button its transfers to the signup screen.
+
+
+![App UI](/login.JPG)
+
 
 ### Similarly some other screen view are here ,
 
 
-![App UI](/login.JPG)
+
 ![App UI](/magic.JPG)
 ![App UI](/magic1.JPG)
 ![App UI](/magical1.JPG)
