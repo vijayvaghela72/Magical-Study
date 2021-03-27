@@ -27,6 +27,6 @@ We design 3 screens first one is a welcome screen like then user open your app i
 ![App UI](/7.jpg)
 ![App UI](/9.jpg)
 
-this is a little bit introduction of projrct .
+this is a little bit introduction of project .
 
 thank you ..
